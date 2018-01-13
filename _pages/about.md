@@ -11,7 +11,7 @@ I love to experiment, iterate and build premium experiences. More information ca
 
 ## Etcetera
 - [Reddit 🤷](https://www.reddit.com/user/its-atomicnumber1/)
-- [Tumblr ❤️](https://its-atomicnumber1.tumblr.com)
+- [Twitter ❤️](https://www.twitter.com/atomicnumber39/)
 - [Instagram 📸](https://www.instagram.com/atomicnumber39/)
 - [Snapchat 👻](/assets/snapcode.svg)
 
