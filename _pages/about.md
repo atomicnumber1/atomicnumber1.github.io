@@ -10,7 +10,8 @@ I love to experiment, iterate and build premium experiences. More information ca
 ----
 
 ## Etcetera
-- [Reddit](https://www.reddit.com/user/its-atomicnumber1/) for 🕺
-- [Instagram](https://www.instagram.com/atomicnumber39/) for 📸
-- Snapchat: ![atomicnumber1](/assets/snapcode.svg) for 👻
+- [🤷](https://www.reddit.com/user/its-atomicnumber1/)
+- [❤️](https://its-atomicnumber1.tumblr.com)
+- [📸](https://www.instagram.com/atomicnumber39/)
+- [👻] (/assets/snapcode.svg)
 
