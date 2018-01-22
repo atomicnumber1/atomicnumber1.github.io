@@ -1,10 +1,10 @@
 <p align="center">
   <img src="./assets/cover-photo.png">
   <p align="center">
-  [atomicnumber1.com](https://atomicnumber1.com)
+  <a href=http://atomicnumber1.com>atomicnumber1</a>
   <br>
   <br>
-  <a href="https://travis-ci.org/atomicnumber1/atomicnumber1.github.io"><img src="https://travis-ci.org/mkchoi212/paper-jekyll-theme.svg?branch=master"></a>
+  <a href="https://travis-ci.org/atomicnumber1/atomicnumber1.github.io"><img src="https://travis-ci.org/atomicnumber1/atomicnumber1.github.io.svg?branch=master"></a>
   <a href="https://raw.githubusercontent.com/atomicnumber1/atomicnumber1.github.io/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
   </p>
 </p>
