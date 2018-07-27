@@ -36,4 +36,11 @@ Now, I can write about how to motivate oneself all day long and at the end of th
 
 > akash
 
+&nbsp;
+
+Edit:
+So, I recently came across this article and I can't help but recommend you guys to read it. Tim explains it elegantly. 
+[How to Pick a Career (That Actually Fits You)][2]
+
 [1]: https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you
+[2]: https://waitbutwhy.com/2018/04/picking-career.html
