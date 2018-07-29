@@ -5,11 +5,11 @@ description: >
 
 author: akash
 email: pomalakash@.com
-twitter_username: atomicnumber39
+twitter_username: _atomicnumber1
 github_username: atomicnumber1
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://atomicnumber1.com" # the base hostname & protocol for your site
+url: "https://atomicnumber1.com" # the base hostname & protocol for your site
 
 google_analytics_id: UA-117111110-1
 disqus_id:
