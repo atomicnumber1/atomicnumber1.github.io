@@ -1,0 +1,3 @@
+Lately, I've been dangling with this idea of writing micro posts. So the thing is, I've some random thoughts that due to various reasons don't turn into a post, but I'd still like for it to be out there. Or it may be a article that I read and would like to share it with you, or it can be video, etc, anything for that matter. Now, I could do this via other social media platforms such as twitter or tumblr, but I have a love-hate realtionship with those (more on that later). And so I'm experimenting with this new form of writing--kinda like micro-blog (*looks at tumblr*)-- where I'd share with you my random thoughts, articles, videos, etc anything that I feel like I ~should~ need to share. 
+
+> akash
